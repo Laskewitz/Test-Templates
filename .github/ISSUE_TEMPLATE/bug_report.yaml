@@ -73,8 +73,8 @@ body:
     label: Environment summary
     value: |
       Install Method (e.g. pip, interactive script, apt-get, Docker, MSI, edge build)
-      CLI version (paconn --version) 
-      OS version 
+      CLI version (paconn --version)
+      OS version
       Shell Type (e.g. bash, cmd.exe, Bash on Windows)
   validations:
     required: true
