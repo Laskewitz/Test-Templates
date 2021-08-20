@@ -9,7 +9,7 @@ body:
       Provide a brief description of the feature or work requested. A link to conceptual documentation may be helpful too.
   validations:
     required: true
-- type: input
+- type: textarea
   id: target-date
   attributes:
     label: Target Date
