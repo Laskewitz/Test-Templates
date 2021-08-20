@@ -1,5 +1,6 @@
 name: 💡 New connector request
 description: Specify a connector that you need!
+title: "[CONNECTOR REQUEST] <title>"
 body:
 - type: input
   id: end-service-name

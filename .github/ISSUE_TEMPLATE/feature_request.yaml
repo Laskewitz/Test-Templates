@@ -1,5 +1,6 @@
 name: 🚀 Feature request
 description: Suggest an idea for an existing connector in this repository!
+title: "[FEATURE REQUEST] <title>"
 body: 
 - type: markdown
   attributes:

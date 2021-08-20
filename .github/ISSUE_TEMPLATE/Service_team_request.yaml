@@ -1,5 +1,6 @@
 name: 🚧 Service Team Support Request
 description: For select service teams to request CLI-team support for work such as new features, commands, etc.
+title: "[SERVICE TEAM SUPPORT REQUEST] <title>"
 body:
 - type: textarea
   id: feature-work-requested
