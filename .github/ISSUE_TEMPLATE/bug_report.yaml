@@ -12,9 +12,9 @@ body:
   attributes:
     label: Type of Connector
     options:
-      - certified 
-      - custom 
-      - independent publisher
+      - Certified Connector
+      - Custom Connector
+      - Independent Publisher Connector
   validations:
     required: true
 - type: input
