@@ -21,7 +21,7 @@ body:
   id: connector-name
   attributes:
     label: Name of Connector
-    description: |
+    placeholder: |
       Enter the name of the connector.
   validations:
     required: true
@@ -56,7 +56,7 @@ body:
   id: reproduce
   attributes:
     label: To Reproduce
-    description: |
+    placeholder: |
       Steps to reproduce the behavior.
   validations:
     required: true
@@ -64,21 +64,21 @@ body:
   id: expected-behavior
   attributes:
     label: Expected behavior
-    description: |
+    placeholder: |
       A clear and concise description of what you expected to happen.
   validations:
     required: true    
 - type: textarea
   attributes:
     label: Environment summary
-    description: |
+    placeholder: |
       Install Method (e.g. pip, interactive script, apt-get, Docker, MSI, edge build) / CLI version (`paconn --version`) / OS version / Shell Type (e.g. bash, cmd.exe, Bash on Windows)
   validations:
     required: true
 - type: textarea
   attributes:
     label: Additional context
-    description: |
+    placeholder: |
       Add any other context about the problem here.
   validations:
     required: true
