@@ -61,7 +61,7 @@ body:
   validations:
     required: true
 - type: textarea
-  id: expectedbehavior
+  id: expected-behavior
   attributes:
     label: Expected behavior
     description: |
